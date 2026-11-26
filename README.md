@@ -1,5 +1,7 @@
 # agent-rules-starter
 
+_By [Tahe Ben Said](https://tahebensaid.dev), senior mobile engineer. More apps and tools at [tahebensaid.dev](https://tahebensaid.dev)._
+
 The one file that makes your AI coding agent follow your rules.
 
 Every coding agent reads a plain markdown file from your repo before it starts work. Put your commands, your folder layout and your rules in it, and the agent stops guessing. Leave it out, and you explain the same things in every chat.
